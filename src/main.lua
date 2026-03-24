@@ -27,6 +27,7 @@ public.definition = {
     tooltip  = "KBM Escape will now work during boon/pom Selection, Hex selection, PoS menu, and during death sequences.",
     default  = true,
     dataMutation = false,
+    modpackModule = true,
 }
 
 -- =============================================================================
